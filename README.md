@@ -1,2 +1,3 @@
 # table
-Created with CodeSandbox
+created with handsontable
+
